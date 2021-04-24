@@ -18,7 +18,7 @@ Remember that performance depends on the BLOCKSIZE constant. Tune BLOCKSIZE acco
 
 ## References
 
-This implementation is the base for the following publications:
+This implementation is the base for the following publications. Please, cite accordingly:
 
 Rucci E., Moreno E., Pousa A., Chichizola F. (2020) Optimization of the N-Body Simulation on Intel’s Architectures Based on AVX-512 Instruction Set. In: Pesado P., Arroyo M. (eds) Computer Science – CACIC 2019. CACIC 2019. Communications in Computer and Information Science, vol 1184. Springer, Cham. [https://doi.org/10.1007/978-3-030-48325-8_3](https://link.springer.com/chapter/10.1007/978-3-030-48325-8_3)
 
