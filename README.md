@@ -1,6 +1,6 @@
-# Gravitational N bodies simulation on Xeon Phi KNL.
+# Gravitational N bodies simulation on Intel’s Architectures Based on AVX-512 Instruction Set
 
-Incremental optimizations of direct N body algorithm for Intel's Xeon Phi Knights Landing processors.
+Incremental optimizations of direct N body algorithm for Intel architectures based on AVX-512 instruction set. This SIMD set was initially supported by Intel’s Xeon Phi Knights Landing (KNL) manycore processors launched at 2016. Recently, it has been included in Intel’s general-purpose processors too, starting at the Skylake (SKL) server microarchitecture and now in its successor Cascade Lake (CKL).
 
 ## Usage
 
