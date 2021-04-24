@@ -5,6 +5,8 @@ Incremental optimizations of direct N body algorithm for Intel's Xeon Phi Knight
 ## Usage
 
   ```
+  ./optX.exe N S T
+  --
   N is the number of bodies
   S is the number of steps
   T is the number of threads
